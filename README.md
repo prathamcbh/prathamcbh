@@ -33,6 +33,6 @@ I have worked on various self-hosted projects, including:
 
 Contact
 
-Feel free to reach out to me through [pratham367@pm.me] or connect with me on [LinkedIn profile URL](https://www.linkedin.com/in/prathamcbh/).
+Feel free to reach out to me through pratham367@pm.me or connect with me on [LinkedIn profile URL](https://www.linkedin.com/in/prathamcbh/).
 
 Thank you for visiting my GitHub profile!
