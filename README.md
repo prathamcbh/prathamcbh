@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=prathamcbh)
 <!--
 **prathamcbh/prathamcbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there👋 Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
 I am Pratham and I am a Linux Engineer at OnMobile Global. I have a passion for technology and have gained a diverse set of skills through self-hosting various projects over the past 2 years.
 Skills
